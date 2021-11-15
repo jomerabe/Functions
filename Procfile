@@ -1,1 +1,1 @@
-web: pip install . -U && johana_funtions -run
+web: pip install . -U && johana_funtions-run
